@@ -4,6 +4,7 @@
 using namespace std;
 
 void kk();
+int a;
 class FDSAF{};
 class student
 {
