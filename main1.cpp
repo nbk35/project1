@@ -3,6 +3,8 @@
  
 using namespace std;
 int c;
+void f();
+class FDSAF{};
 class student
 {
     string name;
