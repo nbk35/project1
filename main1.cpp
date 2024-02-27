@@ -3,7 +3,8 @@
  
 using namespace std;
 
-void c();
+void kk();
+int a;
 class FDSAF{};
 class student
 {
