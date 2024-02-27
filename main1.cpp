@@ -2,7 +2,6 @@
 #include<stdlib.h>
  
 using namespace std;
-int a;
 class student
 {
     string name;
