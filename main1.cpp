@@ -2,10 +2,6 @@
 #include<stdlib.h>
  
 using namespace std;
-
-void kk();
-int a;
-class FDSAF{};
 class student
 {
     string name;
@@ -20,10 +16,10 @@ public:
         this->name = name;
         this->age = age;
     }
+    int c;
     void display()
     {
         cout<< "Name:" << name << endl;
-        cout<< "Age:" << age << endl;
     }
     void * operator new(size_t size)
     {
