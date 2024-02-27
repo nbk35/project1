@@ -3,6 +3,7 @@
  
 using namespace std;
 int a;
+void d();
 class student
 {
     string name;
