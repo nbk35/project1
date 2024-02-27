@@ -2,7 +2,7 @@
 #include<stdlib.h>
  
 using namespace std;
-int c;
+
 void f();
 class FDSAF{};
 class student
