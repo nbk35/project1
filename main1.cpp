@@ -4,6 +4,7 @@
 using namespace std;
 int a;
 void d();
+class A{};
 class student
 {
     string name;
